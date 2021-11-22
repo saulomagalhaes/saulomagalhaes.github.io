@@ -24,7 +24,7 @@ body{
 }
 
 a:link , a:visited {
-  color:#006dfb;
+  color:#41197f;
   text-decoration: none;
 }
 
@@ -40,8 +40,8 @@ a:link , a:visited {
 }
 
 .habInt, .habTec{
-  color: #2fc18c;
-  padding: 20px;
+  color: #036b52;
+  margin: 10px 10px; 
 }
 
 .habInt li, .habTec li{
