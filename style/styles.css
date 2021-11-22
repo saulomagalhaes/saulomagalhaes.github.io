@@ -1,0 +1,40 @@
+body{
+  background-color: #a7c957;
+}
+
+.topo {
+  font-family: 'Raleway', sans-serif;
+  background-color: #6a994e;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+
+}
+
+.indice a{
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.indice{
+  text-align: center;
+  color: #f2e8cf;
+}
+
+a:link , a:visited {
+  color:#bc4749;
+}
+
+.sobreMim{ 
+  text-align: center;
+  margin: 20px 20px;
+}
+
+.foto{
+  border-radius: 50%;
+}
+
+p{
+  font-family: 'Dosis', sans-serif;
+}
